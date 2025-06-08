@@ -1,0 +1,17 @@
+/home/ch1psik/lab003/build/CMakeFiles/edit_cache.dir
+/home/ch1psik/lab003/build/CMakeFiles/rebuild_cache.dir
+/home/ch1psik/lab003/build/formatter_lib/CMakeFiles/formatter.dir
+/home/ch1psik/lab003/build/formatter_lib/CMakeFiles/edit_cache.dir
+/home/ch1psik/lab003/build/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/ch1psik/lab003/build/formatter_ex/CMakeFiles/formatter_ex.dir
+/home/ch1psik/lab003/build/formatter_ex/CMakeFiles/edit_cache.dir
+/home/ch1psik/lab003/build/formatter_ex/CMakeFiles/rebuild_cache.dir
+/home/ch1psik/lab003/build/solver_lib/CMakeFiles/solver_lib.dir
+/home/ch1psik/lab003/build/solver_lib/CMakeFiles/edit_cache.dir
+/home/ch1psik/lab003/build/solver_lib/CMakeFiles/rebuild_cache.dir
+/home/ch1psik/lab003/build/hello_world/CMakeFiles/hello_world.dir
+/home/ch1psik/lab003/build/hello_world/CMakeFiles/edit_cache.dir
+/home/ch1psik/lab003/build/hello_world/CMakeFiles/rebuild_cache.dir
+/home/ch1psik/lab003/build/solver/CMakeFiles/solver.dir
+/home/ch1psik/lab003/build/solver/CMakeFiles/edit_cache.dir
+/home/ch1psik/lab003/build/solver/CMakeFiles/rebuild_cache.dir
